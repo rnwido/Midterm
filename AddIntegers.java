@@ -2,8 +2,8 @@ public class AddIntegers {
 
     public static void main(String[] args) {
 
-        int first = 35;
-        int second = 95;
+        int first = 105;
+        int second = 5;
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
